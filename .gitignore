@@ -1,0 +1,9 @@
+Win32_*/
+glew/Win32_*/
+glut/Win32_*/
+interop/Win32_*/
+glew/x64_*/
+glut/x64_*/
+interop/x64_*/
+interop_2015.VC.VC.opendb
+interop_2015.VC.db
